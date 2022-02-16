@@ -1,5 +1,5 @@
 
-***** 202006 - 管理開始　H.Saito *****;
+***** 202006 - 管理開始　Miyabi1208 *****;
 
 %macro house_hold(type);
 
